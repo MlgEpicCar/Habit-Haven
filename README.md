@@ -1,4 +1,4 @@
-# HenHacks2026
+# Welcome to
 
 ![super good alt text](static/images/banner.png)
 
